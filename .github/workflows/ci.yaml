@@ -13,4 +13,4 @@ jobs:
 
     - name: Build & Test
       run: |
-        xcodebuild -scheme YourApp -destination 'platform=iOS Simulator,name=iPhone 14' clean build test
+        xcodebuild build -scheme YourApp -destination 'platform=iOS Simulator,name=iPhone 14,OS=latest'
