@@ -10,13 +10,13 @@
 		5F32D0A92E1EE38F00A3EA22 /* ios-github-actions-example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-github-actions-example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedRootGroup section */
+/* Begin PBXGroup section */
 		5F32D0AB2E1EE38F00A3EA22 /* ios-github-actions-example */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
+			isa = PBXGroup;
 			path = "ios-github-actions-example";
 			sourceTree = "<group>";
 		};
-/* End PBXFileSystemSynchronizedRootGroup section */
+/* End PBXGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		5F32D0A62E1EE38F00A3EA22 /* Frameworks */ = {
